@@ -1,0 +1,22 @@
+body 
+{
+    text-align: center;
+    background-image: url(https://gifdb.com/images/high/relaxed-mood-color-gradient-gyxdnf89isfnnjhn.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    color: darkblue;
+}
+
+#Pokemon-Pack img 
+{
+    width: 300px;
+    height: 400px;
+    margin-top: 10px;
+}
+
+.poke-card img 
+{
+    width: 290px;
+    height: 400px;
+    margin-top: 10px;
+}
